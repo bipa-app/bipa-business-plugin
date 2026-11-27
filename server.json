@@ -1,0 +1,27 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.bipa-app/bipa-business",
+  "title": "Bipa Business",
+  "description": "Bipa Business cash flow, collections, payment requests and permissioned treasury actions.",
+  "version": "0.1.41",
+  "repository": {
+    "url": "https://github.com/bipa-app/bipa-business-plugin",
+    "source": "github"
+  },
+  "websiteUrl": "https://agents.bipa.app/docs/business",
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/bipa-app/bipa-business-plugin/main/assets/bipa-logo.png",
+      "mimeType": "image/png",
+      "sizes": [
+        "1024x1024"
+      ]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.bipa.app/business/connector/mcp"
+    }
+  ]
+}

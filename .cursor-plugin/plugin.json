@@ -1,0 +1,20 @@
+{
+  "name": "bipa-business",
+  "version": "0.2.0",
+  "description": "Connect your company account to read cash flow, collect payments, request approvals and manage explicitly authorized treasury actions.",
+  "author": {
+    "name": "Bipa",
+    "url": "https://bipa.app"
+  },
+  "homepage": "https://agents.bipa.app/docs/business",
+  "repository": "https://github.com/bipa-app/bipa-business-plugin",
+  "license": "MIT",
+  "keywords": [
+    "bipa",
+    "bipa business",
+    "bipa empresa"
+  ],
+  "logo": "assets/bipa-logo.png",
+  "skills": "skills",
+  "mcpServers": "mcp.json"
+}
