@@ -1,6 +1,6 @@
 {
   "name": "bipa-business",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Bipa Business cash flow, collections, payment requests and permissioned treasury actions.",
   "mcpServers": {
     "bipa-business": {
